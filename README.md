@@ -8,7 +8,8 @@ If the automaton reaches the Center state with empty input and an empty stack, t
 
 Additionally, the following observations may be useful:
 
-- **When the input string is empty** (either the computation starts with the empty string or the input has been fully consumed):
+- **When the input string is empty**
+  (either the computation starts with the empty string or the input has been fully consumed):
   - **In the Center state:**
     - If the stack is empty, then the original input already satisfies the condition *"the number of 1s is twice the number of 0s."*
     - If the stack is not empty, then appending the symbols currently in the stack to the original input yields a string in which the number of 1s is twice the number of 0s.

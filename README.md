@@ -7,7 +7,7 @@ In my spare time, I had spent hours trying to convert the first PDA design I sha
 
 PDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
-This repository contains a Pushdown Automaton (PDA) and DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros. (including the empty string)
+This repository contains a PDA and DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros. (including the empty string)
 
 **Details**  
 

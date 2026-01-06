@@ -1,6 +1,6 @@
 # dpda-ones-double-zeros
 
-** UPDATE (January 7, 2026) **  
+**UPDATE (January 7, 2026)**  
 In my spare time, I had spent hours trying to convert the first PDA design I shared into a formal DPDA, but I could not reach a result. However, I later discovered that it is actually possible to convert it into a DPDA using a very simple method. I applied this method and shared the file DPDA.png.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------

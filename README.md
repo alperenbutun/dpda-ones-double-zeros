@@ -2,8 +2,11 @@
 
 DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
-This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros. (including the empty string)
+This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros. (including the empty string)  
 
+**UPDATE (January 10, 2026)**  
+I have uploaded a proposal file (Proposal.pdf) to the repository, which documents and explains the work conducted during the process of reaching the Final Formal DPDA from the initial design.
+  
 **UPDATE (January 7, 2026)**  
 In my spare time, I had spent hours trying to convert the first PDA design I shared into a formal DPDA, but I could not reach a result. However, I later discovered that it is actually possible to convert it into a DPDA using a very simple method. I applied this method and shared the file "DPDA.png".  
 

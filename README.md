@@ -4,7 +4,7 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.
 
-**UPDATE (Juy 4, 2026)** 
+**UPDATE (Juy 4, 2026)**  
 I added a new automaton design that is rejecting the empty input. The triangle represents the start state. The automaton remains inactive as long as the input is empty; it only starts operating once a 1 or 0 is seen.
 
 **UPDATE (January 10, 2026)**  

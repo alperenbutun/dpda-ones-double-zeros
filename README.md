@@ -5,7 +5,10 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
 **UPDATE (August 8, 2026)**  
-Following an email discussion with a PhD academic person working in the field of Theory of Computation at a leading research institution, I learned that the problem has been solved before, meaning my DPDA solution is not the first. Nevertheless, my solution approach differs from the existing solution(s). In its simplest form, my solution doesn't contain ε transitions (helpers). Even this can be an important factor affecting the degree of determinism.
+Following an email discussion with an academic person with a PhD working in the field of Theory of Computation at a leading research institution, I learned that the problem has been solved before, meaning my DPDA solution is not the first. Nevertheless, my solution approach differs from the existing solution(s). In its simplest form, my solution doesn't contain ε transitions (helpers). Even this can be an important factor affecting the degree of determinism along with other factors such as:  
+**completion feature:** rather than merely rejecting an invalid input w, the construction also provides a completion z such that wz belongs to the language, with z having the minimum possible length.  
+**elimination of zeros**: Corresponding zeros are eliminated between the input and the stack during the computation.
+**only two character stack search**: Checking the first two characters of the stack is equivalent to search the entire stack. 
 
 As a result, I removed the earlier Proposal document from this repository because it contained novelty claims that I could no longer support confidently.  
 

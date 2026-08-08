@@ -11,8 +11,8 @@ As a result, I removed the earlier Proposal document from this repository becaus
 
 Instead of pursuing those claims, I reworked the project from a mathematical analysis perspective. The resulting manuscript develops the structure of the DPDA and its generalization using residuals, prefix quotients, shortest completions, quotient geometry, completion frontiers, and related deterministic pushdown constructions.  
 
-The current manuscript is available in this repository as: completion_frontiers_dpda_v8.pdf  
-The computational validation material referenced in the manuscript is also included as: paper_validation_suite.py  
+The current manuscript is available in this repository as: **completion_frontiers_dpda_v8.pdf**  
+The computational validation material referenced in the manuscript is also included as: **paper_validation_suite.py**  
 
 The validation script is intended as supplementary reproducibility material and does not replace the mathematical proofs in the manuscript.  
 

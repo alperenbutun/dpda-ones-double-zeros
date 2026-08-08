@@ -16,7 +16,7 @@ Following an email discussion with an academic person with a PhD working in the 
   
 **Searching the Stack**: Checking the first two characters of the stack is equivalent to search the entire stack. 
 
-As a result, I removed the earlier Proposal document from this repository because it contained novelty claims that I could no longer support confidently.  
+As a result, I removed the earlier Proposal document because it contained novelty claims that I could no longer support confidently.  
 
 Instead of pursuing those claims, I reworked the project from a mathematical analysis perspective. The resulting manuscript develops the structure of the DPDA and its generalization using residuals, prefix quotients, shortest completions, quotient geometry, completion frontiers, and related deterministic pushdown constructions.  
 

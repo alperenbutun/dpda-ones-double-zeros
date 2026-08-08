@@ -14,7 +14,7 @@ Following an email discussion with an academic person with a PhD working in the 
 **Elimination of Zeros**: Corresponding zeros are eliminated between the input and the stack during the computation.  
 
   
-**Only Two Character Stack Search**: Checking the first two characters of the stack is equivalent to search the entire stack. 
+**Searching the Stack**: Checking the first two characters of the stack is equivalent to search the entire stack. 
 
 As a result, I removed the earlier Proposal document from this repository because it contained novelty claims that I could no longer support confidently.  
 

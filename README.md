@@ -6,7 +6,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 10, 2026)**  
 I developed two papers using my DPDA solution.  
-The First paper: **completion_frontiers_dpda_v8.pdf**  
+The First paper: **completion_frontiers_dpda.pdf**  
 The Second paper: **exact_structure_resource_bounds_dpda.pdf**
 
 **UPDATE (August 8, 2026)**  
@@ -14,7 +14,7 @@ Following an email discussion with an academic person with a PhD working in the 
 
 Instead of pursuing those claims, I reworked the project from a mathematical analysis perspective. The resulting manuscript develops the structure of the DPDA and its generalization using residuals, prefix quotients, shortest completions, quotient geometry, completion frontiers, and related deterministic pushdown constructions.  
 
-The current manuscript is available in this repository as: **completion_frontiers_dpda_v8.pdf**  
+The current manuscript is available in this repository as: **completion_frontiers_dpda.pdf**  
 The computational validation material referenced in the manuscript is also included as: **paper_validation_suite.py**  
 
 The validation script is intended as supplementary reproducibility material and does not replace the mathematical proofs in the manuscript.  

@@ -6,8 +6,8 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 10, 2026)**  
 I developed two papers using my DPDA solution.  
-The First paper: completion_frontiers_dpda_v8.pdf  
-The Second paper: exact_structure_resource_bounds_dpda.pdf
+The First paper: **completion_frontiers_dpda_v8.pdf**  
+The Second paper: **exact_structure_resource_bounds_dpda.pdf**
 
 **UPDATE (August 8, 2026)**  
 Following an email discussion with an academic person with a PhD working in the field of Theory of Computation at a leading research institution, I learned that the problem has been solved before, meaning my DPDA solution is not the first. As a result, I removed the earlier Proposal document because it contained novelty claims that I could no longer support confidently.  

@@ -6,7 +6,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 10, 2026)**  
 I developed two papers using my DPDA solution.  
-The First paper: completion_frontiers_dpda_v8.pdf
+The First paper: completion_frontiers_dpda_v8.pdf  
 The Second paper: exact_structure_resource_bounds_dpda.pdf
 
 **UPDATE (August 8, 2026)**  

@@ -4,6 +4,11 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (August 10, 2026)**  
+I developed two papers using my DPDA solution.  
+The First paper: completion_frontiers_dpda_v8.pdf
+The Second paper: exact_structure_resource_bounds_dpda.pdf
+
 **UPDATE (August 8, 2026)**  
 Following an email discussion with an academic person with a PhD working in the field of Theory of Computation at a leading research institution, I learned that the problem has been solved before, meaning my DPDA solution is not the first. As a result, I removed the earlier Proposal document because it contained novelty claims that I could no longer support confidently.  
 

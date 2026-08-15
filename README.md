@@ -4,6 +4,16 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (August 15, 2026)**  
+
+Three more papers have been developed.  
+
+**binary_stack_alphabet_hierarchy_dpda.pdf:** This paper shows that, for general DPDAs with a fixed number of states, increasing the stack-alphabet size yields a genuine hierarchy, resolving the problem left open by Masopust for the model with epsilon moves. Its main technical result is a representation-independent lower bound, ∣Q∣∣Γ∣≥mk+1, obtained through a completion-slope argument.  
+
+**exact_resource_frontiers_dpda.pdf:** This paper determines exact state–stack resource frontiers for DPDA representations that must faithfully realize the residual dynamics of rational binary counting languages. In particular, it shows that p+q states are necessary and sufficient with one work-stack symbol, while max(p,q) states are necessary and sufficient with two or more work-stack symbols, and it extends the analysis to bounded-push and other structured representation models.  
+
+**higher_dimensional_completion_geometry_dpda.pdf:** This paper extends the shortest-completion viewpoint from binary counting to higher-dimensional linear counting languages and studies the resulting algebraic and topological geometry of shortest paths. It characterizes quotient structures arising from optimal Parikh completions, proves a contractible-versus-circle dichotomy in rank one, identifies the emergence of local holes at higher rank, and derives eventual periodic geodesic behavior along residual rays.  
+
 **UPDATE (August 10, 2026)**  
 I developed two papers using my DPDA solution.  
 The First paper: **completion_frontiers_dpda.pdf**  

@@ -6,6 +6,16 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 15, 2026)**  
 
+Three more papers are ready.  
+
+**Real_Time_pq_DPDA_Generalization:** This is the paper that has excited me the most so far. Starting from my original 2:1 DPDA solution, I developed a general p:q DPDA construction. What makes the result particularly interesting to me is that the same general definition covers the other p:q cases and, when specialized back to p=2 and q=1, it reconstructs my original 2:1 DPDA.  
+
+**Chronological_Carry_Refinement_and_pAdic_Root_Geometry:** This paper develops a third-order arithmetic refinement inspired by chronological correction events arising from a deterministic pushdown computation. It connects the resulting carry structure to Hessenberg operators, Stirling-type congruences, p-adic root lifting, valuation laws, and ramified quadratic extensions. The main theme is that a local computation-derived ordering can generate unexpectedly rich algebraic and p-adic structure.  
+
+**From_Pushdown_Cancellation_to_Defect_Geometry_on_Fuss_Catalan_Paths:** This paper develops a defect-based geometry from ordered cancellation events in a deterministic pushdown computation and connects that structure to Fuss–Catalan paths. It gives an exact realization theory for correction signatures, identifies a Catalan zero-defect boundary, and derives a universal algebraic generating structure for higher defect levels. The main theme is how local pushdown cancellation dynamics can induce a precise combinatorial geometry.  
+
+**UPDATE (August 15, 2026)**  
+
 Three more papers have been developed.  
 
 **binary_stack_alphabet_hierarchy_dpda.pdf:** This paper shows that, for general DPDAs with a fixed number of states, increasing the stack-alphabet size yields a genuine hierarchy, resolving the problem left open by Masopust for the model with epsilon moves. Its main technical result is a representation-independent lower bound, ∣Q∣∣Γ∣≥mk+1, obtained through a completion-slope argument.  

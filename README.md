@@ -8,13 +8,15 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 I have added the final three papers in this research series:
 
-Write_Search_Cancel_Structural_Theory.pdf — Structural Theory  
-Semantic_Uniqueness_LIFO_Lift_Theory.pdf — Uniqueness and LIFO Lift Theory  
-General_Theory_Real_Time_Pushdown_Normalization.pdf — **General Theory**  
+**Write_Search_Cancel_Structural_Theory.pdf:** Structural Theory. Structural Theory. Develops the Write–Search–Cancel framework for real-time pushdown normalization. It shows how writing, searching, and cancellation arise from a common semantic completion demand, while separating semantic information from its physical LIFO representation.  
 
-In addition, I have a book (actually, a 549-page mathematical monograph), which I have also uploaded. 
+**Semantic_Uniqueness_LIFO_Lift_Theory.pdf:** Uniqueness and LIFO Lift Theory. Establishes that the underlying semantic normalization behavior can be unique even when multiple physical LIFO representations realize it. It characterizes this separation through semantic lifts, representation freedom, and the conditions under which physical implementations preserve the same semantic evolution.  
 
-**Deterministic_Pushdown_Normalization.pdf - Monograph** (The synthesis of all the research) 
+**General_Theory_Real_Time_Pushdown_Normalization.pdf:** General Theory  
+
+In addition, I wrote a book (actually, a 549-page mathematical monograph), which I have also uploaded. 
+
+**Deterministic_Pushdown_Normalization.pdf:** Monograph (The synthesis of all the research) 
 
 **UPDATE (August 15, 2026)**  
 

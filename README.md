@@ -8,9 +8,8 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 I have added the final three papers in this research series:
 
-Write_Search_Cancel_Structural_Theory.pdf — Structural Theory
-Semantic_Uniqueness_LIFO_Lift_Theory.pdf — Uniqueness and LIFO Lift Theory
-
+Write_Search_Cancel_Structural_Theory.pdf — Structural Theory  
+Semantic_Uniqueness_LIFO_Lift_Theory.pdf — Uniqueness and LIFO Lift Theory  
 General_Theory_Real_Time_Pushdown_Normalization.pdf — **General Theory**  
 
 In addition, I have a book (actually, a 549-page mathematical monograph), which I have also uploaded. 

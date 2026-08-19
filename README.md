@@ -14,7 +14,7 @@ General_Theory_Real_Time_Pushdown_Normalization.pdf — **General Theory**
 
 In addition, I have a book (actually, a 549-page mathematical monograph), which I have also uploaded. 
 
-Deterministic_Pushdown_Normalization.pdf - Monograph (The synthesis of all the research) 
+**Deterministic_Pushdown_Normalization.pdf - Monograph** (The synthesis of all the research) 
 
 **UPDATE (August 15, 2026)**  
 

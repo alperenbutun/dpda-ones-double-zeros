@@ -8,7 +8,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
   
 I have one more paper ready: 
 
-**Explicit_Run_Return_Enumeration_Rational_Dyck_Paths.pdf:** This work solves the explicit enumeration problem left open by Dai–Fu–Qiu: determining the number of rational Dyck paths with prescribed values of run and return, and likewise of ratio-run and return. The approach begins with the residual viewpoint from the original (2:1) DPDA, extends it to general (p:q) balance, and identifies the residual with rational-path rank. The key step is that returns are exactly upper-barrier contacts in the coarea sequence. Combining forbidden coarea values, weighted LGV determinants, and inclusion–exclusion then yields a fully explicit formula involving only finite subset sums and integer determinants.  
+**Explicit_Run_Return_Enumeration_Rational_Dyck_Paths.pdf:** This work derives from my original (2:1) DPDA solution, especially from its p:q generalization, and solves the explicit enumeration problem left open by Dai–Fu–Qiu: determining the number of rational Dyck paths with prescribed values of run and return, and likewise of ratio-run and return. The key bridge is the residual viewpoint: the (p) residual is identified with rational-path rank, and returns are shown to be exactly upper-barrier contacts in the coarea sequence. Combining forbidden coarea values, weighted LGV determinants, and inclusion–exclusion then yields a fully explicit formula involving only finite subset sums and integer determinants.  
   
 **UPDATE (August 19, 2026)** 
 

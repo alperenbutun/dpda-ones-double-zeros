@@ -6,8 +6,9 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 24, 2026)** 
 
-I have integrated the last three papers into the monograph. After making some additional revisions and improvements, I uploaded the updated version as  
-**monograph/Deterministic_Pushdown_Normalization_v2.pdf:** Mathematical Monograph v2
+I have integrated the last three papers into the monograph.  
+After making some additional revisions and improvements, I uploaded the updated version as  
+/*monograph/Deterministic_Pushdown_Normalization_v2.pdf:** Mathematical Monograph v2
 
 **UPDATE (August 23, 2026)** 
   

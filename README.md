@@ -4,6 +4,11 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (August 24, 2026)** 
+
+I have integrated the last three papers into the monograph. After making some additional revisions and improvements, I uploaded the updated version as  
+**monograph/Deterministic_Pushdown_Normalization_v2.pdf:** Mathematical Monograph v2
+
 **UPDATE (August 23, 2026)** 
   
 I have three more papers ready:  

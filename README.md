@@ -6,7 +6,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 23, 2026)** 
   
-I have one more paper ready:  
+I have three more papers ready:  
 
 **Farey_Recursive_Shortest_Completions_Universal_Spectra.pdf:** This paper develops a Farey-recursive theory of shortest completion profiles for rational balance languages, motivated by the completion-aware 2:1 DPDA. Its main contribution is an exact cross-parameter ordered Farey recursion that reconstructs mediant completion profiles from their parents, together with local parent recovery and universal scalar completion spectra depending only on p+q.  
 

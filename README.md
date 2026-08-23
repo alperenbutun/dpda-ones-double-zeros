@@ -6,7 +6,11 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (August 23, 2026)** 
   
-I have one more paper ready: 
+I have one more paper ready:  
+
+**Farey_Recursive_Shortest_Completions_Universal_Spectra.pdf:** This paper develops a Farey-recursive theory of shortest completion profiles for rational balance languages, motivated by the completion-aware 2:1 DPDA. Its main contribution is an exact cross-parameter ordered Farey recursion that reconstructs mediant completion profiles from their parents, together with local parent recovery and universal scalar completion spectra depending only on p+q.  
+
+**Barrier_Compression_and_Composition-Refined_Enumeration.pdf:** This paper develops a contact-preserving barrier-compression method, proposed here as a new reduction framework for refined lattice-path enumeration, motivated by the residual viewpoint of the earlier 2:1 DPDA work. It gives explicit determinant formulas for four fixed-composition rational Dyck path problems involving run, ratio-run, exact returns, and fixed ratio-signatures, with applications to arbitrary-boundary/partial Dyck paths and rational parking functions.  
 
 **Explicit_Run_Return_Enumeration_Rational_Dyck_Paths.pdf:** This work derives from my original (2:1) DPDA solution, especially from its p:q generalization, and solves the explicit enumeration problem left open by Dai–Fu–Qiu: determining the number of rational Dyck paths with prescribed values of run and return, and likewise of ratio-run and return. The key bridge is the residual viewpoint: the (p) residual is identified with rational-path rank, and returns are shown to be exactly upper-barrier contacts in the coarea sequence. Combining forbidden coarea values, weighted LGV determinants, and inclusion–exclusion then yields a fully explicit formula involving only finite subset sums and integer determinants.  
   

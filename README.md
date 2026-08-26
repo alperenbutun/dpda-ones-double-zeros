@@ -4,7 +4,8 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
-**UPDATE (August 26, 2026)** 
+**UPDATE (August 26, 2026)**  
+-------------------------------
 
 **Unrestricted_Lower_Bounds_for_Lpq.pdf‎:**  
 This work arises from our p:q generalization of the original 2:1 DPDA and the resulting residual-based study of how balance information can be represented across states and stack storage. It establishes **representation-independent lower bounds** for deterministic pushdown recognition of the rational binary balance languages Lpq. In particular, it proves the unrestricted lower bound **|Q| >= max(p,q),** and, under right-endmarker convention, determines the exact state complexity: **Qmin(Lpq) = max(p,q).** Thus the unrestricted lower bound is sharp.

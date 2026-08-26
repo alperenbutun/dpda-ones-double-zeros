@@ -24,7 +24,8 @@ After making some additional revisions and improvements, I uploaded the updated 
 **Deterministic_Pushdown_Normalization_v2.pdf:** Mathematical Monograph v2
 
 **UPDATE (August 23, 2026)** 
-  
+-------------------------------
+
 I have three more papers ready:  
 
 **Farey_Recursive_Shortest_Completions_Universal_Spectra.pdf:** This paper develops a Farey-recursive theory of shortest completion profiles for rational balance languages, motivated by the completion-aware 2:1 DPDA. Its main contribution is an exact cross-parameter ordered Farey recursion that reconstructs mediant completion profiles from their parents, together with local parent recovery and universal scalar completion spectra depending only on p+q.  
@@ -34,6 +35,7 @@ I have three more papers ready:
 **Explicit_Run_Return_Enumeration_Rational_Dyck_Paths.pdf:** This work derives from my original (2:1) DPDA solution, especially from its p:q generalization, and solves the explicit enumeration problem left open by Dai–Fu–Qiu: determining the number of rational Dyck paths with prescribed values of run and return, and likewise of ratio-run and return. The key bridge is the residual viewpoint: the (p) residual is identified with rational-path rank, and returns are shown to be exactly upper-barrier contacts in the coarea sequence. Combining forbidden coarea values, weighted LGV determinants, and inclusion–exclusion then yields a fully explicit formula involving only finite subset sums and integer determinants.  
   
 **UPDATE (August 19, 2026)** 
+-------------------------------
 
 I have added the final three papers in this research series:
 
@@ -48,6 +50,7 @@ In addition, I wrote a book (actually, a 549-page mathematical monograph), which
 **Deterministic_Pushdown_Normalization.pdf:** Monograph (The synthesis of all the research) 
 
 **UPDATE (August 15, 2026)**  
+-------------------------------
 
 Three more papers are ready.  
 
@@ -58,6 +61,7 @@ Three more papers are ready.
 **From_Pushdown_Cancellation_to_Defect_Geometry_on_Fuss_Catalan_Paths.pdf:** This paper develops a defect-based geometry from ordered cancellation events in a deterministic pushdown computation and connects that structure to Fuss–Catalan paths. It gives an exact realization theory for correction signatures, identifies a Catalan zero-defect boundary, and derives a universal algebraic generating structure for higher defect levels. The main theme is how local pushdown cancellation dynamics can induce a precise combinatorial geometry.  
 
 **UPDATE (August 15, 2026)**  
+-------------------------------
 
 Three more papers have been developed.  
 
@@ -68,11 +72,15 @@ Three more papers have been developed.
 **higher_dimensional_completion_geometry_dpda.pdf:** This paper extends the shortest-completion viewpoint from binary counting to higher-dimensional linear counting languages and studies the resulting algebraic and topological geometry of shortest paths. It characterizes quotient structures arising from optimal Parikh completions, proves a contractible-versus-circle dichotomy in rank one, identifies the emergence of local holes at higher rank, and derives eventual periodic geodesic behavior along residual rays.  
 
 **UPDATE (August 10, 2026)**  
+-------------------------------
+
 I developed two papers using my DPDA solution.  
 The First paper: **completion_frontiers_dpda.pdf**  
 The Second paper: **exact_structure_resource_bounds_dpda.pdf**
 
 **UPDATE (August 8, 2026)**  
+-------------------------------
+
 Following an email discussion with an academic person with a PhD working in the field of Theory of Computation at a leading research institution, I learned that the problem has been solved before, meaning my DPDA solution is not the first. As a result, I removed the earlier Proposal document because it contained novelty claims that I could no longer support confidently.  
 
 Instead of pursuing those claims, I reworked the project from a mathematical analysis perspective. The resulting manuscript develops the structure of the DPDA and its generalization using residuals, prefix quotients, shortest completions, quotient geometry, completion frontiers, and related deterministic pushdown constructions.  

@@ -53,7 +53,7 @@ In addition, I wrote a book (actually, a 549-page mathematical monograph), which
 **Deterministic_Pushdown_Normalization.pdf:** Monograph (The synthesis of all the research) 
 
 
-**UPDATE (August 15, 2026)**  
+**UPDATE (August 17, 2026)**  
 -------------------------------
 
 Three more papers are ready.  

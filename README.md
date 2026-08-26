@@ -4,6 +4,31 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (August 26, 2026)** 
+
+**Unrestricted Lower Bounds for \(L_{p,q}\):** 
+This work arose from our \(p{:}q\) generalization of the original \(2{:}1\) DPDA and the resulting residual-based study of how balance information can be represented across states and stack storage.
+
+It establishes representation-independent lower bounds for deterministic pushdown recognition of the rational binary balance languages \(L_{p,q}\). In particular, it proves the unrestricted lower bound
+
+\[
+|Q| \ge \max(p,q),
+\]
+
+and, under the right-endmarker convention, determines the exact state complexity:
+
+\[
+\boxed{Q_{\min}(L_{p,q})=\max(p,q)}.
+\]
+
+Thus the unrestricted lower bound is sharp.
+
+**Fixed_Parikh_Random_Ordering_LIFO.pdf:**  
+This work grew out of our \(p{:}q\) shortest-completion and physical-lift framework, where the same residual semantics can admit different stack-level realizations. This paper studies the quantitative behavior of LIFO normalization under uniformly random orderings with fixed Parikh data. It identifies distinct microscopic, mesoscopic, and macroscopic cost regimes, including Rayleigh-type rematerialization behavior and explicit asymptotic rates.
+
+**Optimal_Fiber_Topology_Beyond_Kernel_Rank.pdf‎:** 
+This work developed from our higher-dimensional shortest-completion analysis, where kernel rank first emerged as a structural parameter governing optimal-schedule fibers. The paper shows that kernel rank alone does not determine the full global geometry and gives a complete rank-two classification in terms of the active lattice translation structure of the optimal fiber.
+
 **UPDATE (August 24, 2026)** 
 
 I have integrated the last three papers into the monograph.  

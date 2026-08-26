@@ -90,9 +90,7 @@ Following an email discussion with an academic person with a PhD working in the 
 
 Instead of pursuing those claims, I reworked the project from a mathematical analysis perspective. The resulting manuscript develops the structure of the DPDA and its generalization using residuals, prefix quotients, shortest completions, quotient geometry, completion frontiers, and related deterministic pushdown constructions.  
 
--------------------------------
-
-The validation script is intended as supplementary reproducibility material and does not replace the mathematical proofs in the manuscript.  
+-------------------------------  
 
 **UPDATE (July 4, 2026)**  
 I added a new automaton design that is rejecting the empty input. The triangle represents the start state. The automaton remains inactive as long as the input is empty; it only starts operating once a 1 or 0 is seen.

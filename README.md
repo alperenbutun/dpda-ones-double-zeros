@@ -7,11 +7,10 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (August 26, 2026)** 
 
 **Unrestricted_Lower_Bounds_for_Lpq.pdf‎:** 
-This work arises from our p:q generalization of the original 2:1 DPDA and the resulting residual-based study of how balance information can be represented across states and stack storage. It establishes **representation-independent lower bounds** for deterministic pushdown recognition of the rational binary balance languages Lpq. In particular, it proves the unrestricted lower bound  
-**|Q| >= max(p,q),**  
+This work arises from our p:q generalization of the original 2:1 DPDA and the resulting residual-based study of how balance information can be represented across states and stack storage.  
+It establishes **representation-independent lower bounds** for deterministic pushdown recognition of the rational binary balance languages Lpq. In particular, it proves the unrestricted lower bound **|Q| >= max(p,q),**  
 and, under the right-endmarker convention, determines the exact state complexity:
-**Qmin(Lpq) = max(p,q).**  
-Thus the unrestricted lower bound is sharp.
+**Qmin(Lpq) = max(p,q).** Thus the unrestricted lower bound is sharp.
 
 **Fixed_Parikh_Random_Ordering_LIFO.pdf:**  
 This work grew out of our \(p{:}q\) shortest-completion and physical-lift framework, where the same residual semantics can admit different stack-level realizations. This paper studies the quantitative behavior of LIFO normalization under uniformly random orderings with fixed Parikh data. It identifies distinct microscopic, mesoscopic, and macroscopic cost regimes, including Rayleigh-type rematerialization behavior and explicit asymptotic rates.

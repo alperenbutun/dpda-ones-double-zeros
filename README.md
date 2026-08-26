@@ -7,7 +7,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (August 26, 2026)** 
 
 **Unrestricted_Lower_Bounds_for_Lpq.pdf‎:** 
-This work arose from our p:q generalization of the original 2:1 DPDA and the resulting residual-based study of how balance information can be represented across states and stack storage. It establishes **representation-independent lower bounds** for deterministic pushdown recognition of the rational binary balance languages Lpq. In particular, it proves the unrestricted lower bound  
+This work arises from our p:q generalization of the original 2:1 DPDA and the resulting residual-based study of how balance information can be represented across states and stack storage. It establishes **representation-independent lower bounds** for deterministic pushdown recognition of the rational binary balance languages Lpq. In particular, it proves the unrestricted lower bound  
 **|Q| >= max(p,q),**  
 and, under the right-endmarker convention, determines the exact state complexity:
 **Qmin(Lpq) = max(p,q).**  

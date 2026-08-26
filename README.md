@@ -14,14 +14,16 @@ This work arises from our p:q generalization of the original 2:1 DPDA and the re
 This work grew out of our \(p{:}q\) shortest-completion and physical-lift framework, where the same residual semantics can admit different stack-level realizations. This paper studies the quantitative behavior of LIFO normalization under uniformly random orderings with fixed Parikh data. It identifies distinct microscopic, mesoscopic, and macroscopic cost regimes, including Rayleigh-type rematerialization behavior and explicit asymptotic rates.
 
 **Optimal_Fiber_Topology_Beyond_Kernel_Rank.pdf‎:** 
-This work developed from our higher-dimensional shortest-completion analysis, where kernel rank first emerged as a structural parameter governing optimal-schedule fibers. The paper shows that kernel rank alone does not determine the full global geometry and gives a complete rank-two classification in terms of the active lattice translation structure of the optimal fiber.
+This work developed from our higher-dimensional shortest-completion analysis, where kernel rank first emerged as a structural parameter governing optimal-schedule fibers. The paper shows that kernel rank alone does not determine the full global geometry and gives a complete rank-two classification in terms of the active lattice translation structure of the optimal fiber.  
+
 
 **UPDATE (August 24, 2026)** 
 -------------------------------
 
 I have integrated the last three papers into the monograph.  
 After making some additional revisions and improvements, I uploaded the updated version as  
-**Deterministic_Pushdown_Normalization_v2.pdf:** Mathematical Monograph v2
+**Deterministic_Pushdown_Normalization_v2.pdf:** Mathematical Monograph v2  
+
 
 **UPDATE (August 23, 2026)** 
 -------------------------------
@@ -33,6 +35,7 @@ I have three more papers ready:
 **Barrier_Compression_and_Composition-Refined_Enumeration.pdf:** This paper develops a contact-preserving barrier-compression method, proposed here as a new reduction framework for refined lattice-path enumeration, motivated by the residual viewpoint of the earlier 2:1 DPDA work. It gives explicit determinant formulas for four fixed-composition rational Dyck path problems involving run, ratio-run, exact returns, and fixed ratio-signatures, with applications to arbitrary-boundary/partial Dyck paths and rational parking functions.  
 
 **Explicit_Run_Return_Enumeration_Rational_Dyck_Paths.pdf:** This work derives from my original (2:1) DPDA solution, especially from its p:q generalization, and solves the explicit enumeration problem left open by Dai–Fu–Qiu: determining the number of rational Dyck paths with prescribed values of run and return, and likewise of ratio-run and return. The key bridge is the residual viewpoint: the (p) residual is identified with rational-path rank, and returns are shown to be exactly upper-barrier contacts in the coarea sequence. Combining forbidden coarea values, weighted LGV determinants, and inclusion–exclusion then yields a fully explicit formula involving only finite subset sums and integer determinants.  
+
   
 **UPDATE (August 19, 2026)** 
 -------------------------------
@@ -49,6 +52,7 @@ In addition, I wrote a book (actually, a 549-page mathematical monograph), which
 
 **Deterministic_Pushdown_Normalization.pdf:** Monograph (The synthesis of all the research) 
 
+
 **UPDATE (August 15, 2026)**  
 -------------------------------
 
@@ -59,6 +63,7 @@ Three more papers are ready.
 **Chronological_Carry_Refinement_and_pAdic_Root_Geometry.pdf:** This paper develops a third-order arithmetic refinement inspired by chronological correction events arising from a deterministic pushdown computation. It connects the resulting carry structure to Hessenberg operators, Stirling-type congruences, p-adic root lifting, valuation laws, and ramified quadratic extensions. The main theme is that a local computation-derived ordering can generate unexpectedly rich algebraic and p-adic structure.  
 
 **From_Pushdown_Cancellation_to_Defect_Geometry_on_Fuss_Catalan_Paths.pdf:** This paper develops a defect-based geometry from ordered cancellation events in a deterministic pushdown computation and connects that structure to Fuss–Catalan paths. It gives an exact realization theory for correction signatures, identifies a Catalan zero-defect boundary, and derives a universal algebraic generating structure for higher defect levels. The main theme is how local pushdown cancellation dynamics can induce a precise combinatorial geometry.  
+
 
 **UPDATE (August 15, 2026)**  
 -------------------------------
@@ -71,22 +76,23 @@ Three more papers have been developed.
 
 **higher_dimensional_completion_geometry_dpda.pdf:** This paper extends the shortest-completion viewpoint from binary counting to higher-dimensional linear counting languages and studies the resulting algebraic and topological geometry of shortest paths. It characterizes quotient structures arising from optimal Parikh completions, proves a contractible-versus-circle dichotomy in rank one, identifies the emergence of local holes at higher rank, and derives eventual periodic geodesic behavior along residual rays.  
 
+
 **UPDATE (August 10, 2026)**  
 -------------------------------
-
 I developed two papers using my DPDA solution.  
 The First paper: **completion_frontiers_dpda.pdf**  
-The Second paper: **exact_structure_resource_bounds_dpda.pdf**
+The Second paper: **exact_structure_resource_bounds_dpda.pdf**  
+
 
 **UPDATE (August 8, 2026)**  
 -------------------------------
-
 Following an email discussion with an academic person with a PhD working in the field of Theory of Computation at a leading research institution, I learned that the problem has been solved before, meaning my DPDA solution is not the first. As a result, I removed the earlier Proposal document because it contained novelty claims that I could no longer support confidently.  
 
 Instead of pursuing those claims, I reworked the project from a mathematical analysis perspective. The resulting manuscript develops the structure of the DPDA and its generalization using residuals, prefix quotients, shortest completions, quotient geometry, completion frontiers, and related deterministic pushdown constructions.  
 
 The current manuscript is available in this repository as: **completion_frontiers_dpda.pdf**  
 The computational validation material referenced in the manuscript is also included as: **paper_validation_suite.py**  
+-------------------------------
 
 The validation script is intended as supplementary reproducibility material and does not replace the mathematical proofs in the manuscript.  
 

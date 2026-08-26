@@ -17,6 +17,7 @@ This work grew out of our \(p{:}q\) shortest-completion and physical-lift framew
 This work developed from our higher-dimensional shortest-completion analysis, where kernel rank first emerged as a structural parameter governing optimal-schedule fibers. The paper shows that kernel rank alone does not determine the full global geometry and gives a complete rank-two classification in terms of the active lattice translation structure of the optimal fiber.
 
 **UPDATE (August 24, 2026)** 
+-------------------------------
 
 I have integrated the last three papers into the monograph.  
 After making some additional revisions and improvements, I uploaded the updated version as  

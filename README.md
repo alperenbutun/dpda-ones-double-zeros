@@ -4,6 +4,28 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (August 30, 2026)**  
+-------------------------------  
+
+Four papers have been integrated into the monograph.  
+**Deterministic_Pushdown_Normalization_v4.pdf:** Mathematical Monograph v4  
+
+**UPDATE (August 30, 2026)**  
+-------------------------------
+
+**Nonabelian_Completion_Holonomy_and_Sharp_LIFO_Carrier_Costs.pdf‎:**  
+Arising from the existence of multiple shortest completions for the same residual in the p:q normalization, this work studies the geometry and topology of optimal completion fibers. It develops quotient complexes encoding commuting optimal actions, identifies nontrivial and nonabelian holonomy phenomena, and derives sharp carrier-cost results for their physical LIFO realization.
+
+**Minimal_Cores_and_Pareto_Frontiers_of_Exact_Pushdown_Lifts.pdf:**  
+Motivated by the passage from the original 2:1 construction to general p:q normalization, this work asks how much physical state and stack information is actually necessary to realize the same residual semantics exactly. It develops a theory of exact pushdown lifts, identifies minimal protected cores and interfaces, and establishes Pareto frontiers governing the trade-off between finite-state and stack resources.
+
+**Causal_Hypergraphs_and_Exact_Schedule_Classification.pdf‎:** 
+This work originates from the optional eager operations that appear when the operational ideas of the 2:1 DPDA are generalized to p:q normalization. It determines exactly which combinations of local scheduling modifications preserve correctness, encoding their interactions through causal hypergraphs and minimal fatal supports and thereby obtaining a complete classification of admissible schedules. 
+
+**Operational_Enumeration_Rational_Pushdown_Normalization.pdf‎:** 
+Starting from the p:q shortest-completion mechanism, this work observes that operational events such as WRITE, CANCEL, and carry behavior possess a refined combinatorial structure. It translates these events into statistics on rational lattice paths and derives refined enumeration, factorization, and explicit counting results for the resulting normalization processes.
+
+
 **UPDATE (August 27, 2026)**  
 -------------------------------  
 

@@ -21,10 +21,10 @@ The paper starts from the question of how topologically complicated the spaces o
 **Confluence_and_Normalization_Choice_in_Exact_Pushdown_Lifts.pdf:**  
 The motivation is to determine whether different admissible normalization choices in an exact pushdown lift necessarily lead to the same final outcome. The paper characterizes the structural conditions under which confluence is preserved and identifies the local configurations that make the normalization result depend on the chosen processing schedule. It therefore explains precisely when normalization is choice-independent and when the order of local operations becomes mathematically significant.
 
-**Unrestricted_State_Stack_Pareto_Frontiers_and_Bounded_Push_Tradeoffs.pdf‎:** 
+**Unrestricted_State_Stack_Pareto_Frontiers_and_Bounded_Push_Tradeoffs.pdf‎:**  
 The paper begins with the question of the intrinsic computational resources required for exact pushdown normalization, beyond the mere existence of a normalizing machine. It establishes representation-independent lower bounds, studies the additional constraints imposed by bounded-push models, and organizes the tradeoff between finite-state control and stack resources through Pareto frontiers. In this way, it gives a structural account of the state-stack complexity of exact normalization. 
 
-**Fourth_Order_Chronological_Carry_Connected_Quadruples_Extension_Parameters_and_the_Stirling_Shadow.pdf‎:** 
+**Fourth_Order_Chronological_Carry_Connected_Quadruples_Extension_Parameters_and_the_Stirling_Shadow.pdf‎:**  
 The starting point is the higher-order structure suggested by lower-order chronological carry phenomena. The paper extends the theory to fourth order through connected quadruples, extension parameters, four-band transport, and explicit quartic formulas. The appearance of Stirling-type coefficient patterns, described as the Stirling shadow, indicates that the previously observed low-order identities belong to a broader higher-order arithmetic and chronological hierarchy.
 
 

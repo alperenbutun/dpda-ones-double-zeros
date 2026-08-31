@@ -4,6 +4,16 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (September 1, 2026)**  
+-------------------------------  
+
+**Deterministic_Pushdown_Normalization_v6.pdf:** 
+Mathematical Monograph v6. (The synthesis of all the research)
+
+**Compiling_Shortest_Paths.pdf:**  
+We develop a finite cubical geodesic compiler for positive-cost finite-phase periodic shortest-path systems, together with a general framework for encoding exact optimal branching, shortest-prefix membership, commuting geodesic compatibility, canonical routes, and all shortest paths implicitly from finite arithmetic data. Beyond compilation, we develop a structure theory of local optimal compatibility and prove that its hierarchy is genuinely strict. For every prescribed order (k), there exist adjacent states with the same exact shortest distance and identical optimal-compatibility data through order (k-1), yet different compatibility at order (k). Consequently, no fixed bounded-order summary consisting of distance and lower-order compatibility universally determines the full local optimal-compatibility complex. We further prove a Boolean amplification theorem showing that independent products turn this separation into exponentially many distinct higher-order signatures.  
+
+
 **UPDATE (August 31, 2026)**  
 -------------------------------  
 

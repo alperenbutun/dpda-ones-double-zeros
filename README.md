@@ -7,7 +7,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (September 1, 2026)**  
 -------------------------------  
 
-**Deterministic_Pushdown_Normalization_v6.pdf:** 
+**Deterministic_Pushdown_Normalization_v6.pdf:**  
 Mathematical Monograph v6. (The synthesis of all the research)
 
 **Compiling_Shortest_Paths.pdf:**  

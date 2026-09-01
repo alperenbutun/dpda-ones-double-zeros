@@ -11,11 +11,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 Mathematical Monograph v7. (The synthesis of all the research)
 
 **Universal_k_Fibers.pdf:**  
-In our preceding work, alongside the finite cubical geodesic compiler, we developed a structure theory of local optimal compatibility, proving prescribed-order separation and Boolean amplification of higher-order signatures. Building on that framework, the present work introduces the $k$-fiber viewpoint and proves the **Universal $k$-Fiber Theorem**. For arbitrary integers $n \ge r \ge 2$, one fixed periodic shortest-path system admits a common exact distance and a common complete compatibility truncation through order $r-1$, while its order-$r$ layer realizes every subset of the distinguished $r$-faces—equivalently, every $r$-uniform hypergraph on $n$ vertices—and attains the maximal capacity 
-$$
-2^{\binom{n}{r}}.
-$$
-The work serves as a structural component of the monograph’s broader general theory, showing that even after exact distance and all lower-order optimal-compatibility information are fixed, the next-order layer can remain completely unconstrained.
+In our preceding work, alongside the finite cubical geodesic compiler, we developed a structure theory of local optimal compatibility, proving prescribed-order separation and Boolean amplification of higher-order signatures. Building on that framework, the present work introduces the $k$-fiber viewpoint and proves the **Universal $k$-Fiber Theorem**. For arbitrary integers $n \ge r \ge 2$, one fixed periodic shortest-path system admits a common exact distance and a common complete compatibility truncation through order $r-1$, while its order-$r$ layer realizes every subset of the distinguished $r$-faces—equivalently, every $r$-uniform hypergraph on $n$ vertices—and attains the maximal capacity $2^{\binom{n}{r}}$ The work serves as a structural component of the monograph’s broader general theory, showing that even after exact distance and all lower-order optimal-compatibility information are fixed, the next-order layer can remain completely unconstrained.
 
 
 **UPDATE (September 1, 2026)**  

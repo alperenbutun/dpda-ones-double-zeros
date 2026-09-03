@@ -8,19 +8,20 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 -------------------------------  
 
 **Deterministic_Pushdown_Normalization_v8.pdf:**  
-1.  Full post-integration referee audit
-2.  Narrative, meaning, conceptual-flow, and coherence audit
-3.  Scope, novelty-claim, and theorem-dependency audit
-4.  Formal strengthening of the General Theory
-5.  Theorem-hierarchy and global-claim restructuring
-6.  Global notation and consistency repairs
-7.  Updating of appendices, the Closing Loop, and global synthesis sections
-8.  Structural reorganization from 24 Parts into 9 macro-Parts
-9.  Literature and novelty-positioning repair
+1. Full post-integration referee audit
+2. Narrative, meaning, conceptual-flow, and coherence audit
+3. Scope, novelty-claim, and theorem-dependency audit
+4. Formal strengthening of the General Theory
+5. Theorem-hierarchy and global-claim restructuring
+6. Global notation and consistency repairs
+7. Updating of the appendices, the Closing Loop, and global synthesis sections
+8. Structural reorganization from 24 Parts into 9 macro-Parts
+9. Literature and novelty-positioning repair
 10. Mechanical, typographic, cross-reference, and source cleanup
-11. Compilation and technical validation of Digital A4, Archival A4, and B5 formats
-12. Second full referee audit pass
+11. Compilation and technical validation of the Digital A4, Archival A4, and B5 formats
+12. Second full referee audit
 13. Final verification of theorem dependencies, references, bibliography, notation, and key visual pages
+14. Final cover-page and front-matter refinement
 
 **Cohn_Markoff_Completion_Geometry.pdf:**  
 Arising from the Farey-recursive shortest-completion structure discovered in the general \(p\!:\!q\) normalization, this work asks how the same completion coordinates behave when transported into classical Cohn–Markoff word dynamics. It develops exact completion and kernel coordinates for Cohn word states, derives a closed adjacent-swap factorization and terminal-transport formulas, and identifies the completion kernel with a quadratic-return translation. In particular, it isolates an exact magnitude factorization for swap curvature and shows that the normalization-derived completion geometry provides a new arithmetic description of several Cohn–Markoff phenomena beyond the classical sign and equality properties of flips.

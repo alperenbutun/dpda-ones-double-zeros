@@ -19,7 +19,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 9.  Literature and novelty-positioning repair
 10. Mechanical, typographic, cross-reference, and source cleanup
 11. Compilation and technical validation of Digital A4, Archival A4, and B5 formats
-12. Second full referee pass
+12. Second full referee audit pass
 13. Final verification of theorem dependencies, references, bibliography, notation, and key visual pages
 
 **Cohn_Markoff_Completion_Geometry.pdf:**  

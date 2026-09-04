@@ -4,6 +4,16 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (September 5, 2026)**  
+------------------------------- 
+
+**Prime_DOCA_State_Primality_Undecidable.pdf:**  
+The work grew out of our earlier deterministic pushdown research on residuals, quotients, shortest completions, and state separation. The main new contribution is an elementary-abelian reduction proving that state-primality is undecidable for deterministic one-counter automata.  
+
+**Universal_Row_Complexity_of_Simplicial_Complexes.pdf.pdf.pdf:**  
+This work grew out of our earlier deterministic pushdown research on residuals, shortest completions, and compatibility structures. Its main contribution is an exact simultaneous fixed-bank row complexity theorem: one coefficient bank can be fixed in advance for every labeled simplicial complex on a given ground set, and the paper determines the exact minimum size of that bank. The same optimum persists under common-shell synchronization and admits a fixed-system Bellman shortest-path realization.
+
+
 **UPDATE (September 3, 2026)**  
 -------------------------------  
 

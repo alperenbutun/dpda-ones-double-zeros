@@ -7,7 +7,9 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (September 5, 2026)**  
 ------------------------------- 
 
-**Prime_DOCA_State_Primality_Undecidable.pdf:**  
+**Deterministic_Pushdown_Normalization_v9.pdf:** Mathematical Monograph (Synthesis of all the research)
+
+**Prime_DOCA_State_Primality_Undecidable_v2.pdf:**  
 The work grew out of our earlier deterministic pushdown research on residuals, quotients, shortest completions, and state separation. The main new contribution is an elementary-abelian reduction proving that state-primality is undecidable for deterministic one-counter automata.  
 
 This problem was posted on Automata Exchange as [Open Problem](https://automata.exchange/20.03-prime-docas/) by Patrick Totzke and is also listed by [OpenTCS](https://opentcs.cc/problems/prime-docas/). To the best of our literature search as of September 5, 2026, we found no public paper or preprint resolving the problem; the present work gives its first resolution.

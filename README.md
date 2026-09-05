@@ -7,7 +7,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (September 6, 2026)**  
 ------------------------------- 
 
-**Two_Factor_DOCA_Decomposition_Undecidable_v2.pdf:**  
+**Two_Factor_DOCA_Decomposition_Undecidable.pdf:**  
 The previous paper established undecidability of state-primality for deterministic one-counter automata, allowing an arbitrary finite intersection of smaller factors. The present paper sharpens that result to the smallest nontrivial factor budget: two factors already suffice. The main strengthening lies precisely here. Our Prime-DOCA-Undecidable paper, at least in principle, leaves the possibility that undecidability might stem from the ability to use arbitrarily many factors. This paper eliminates that possibility.
 
 
@@ -16,7 +16,7 @@ The previous paper established undecidability of state-primality for determinist
 
 **Deterministic_Pushdown_Normalization_v9.pdf:** Mathematical Monograph (Synthesis of all the research)
 
-**Prime_DOCA_State_Primality_Undecidable_v2.pdf:**  
+**Prime_DOCA_State_Primality_Undecidable.pdf:**  
 The work grew out of our earlier deterministic pushdown research on residuals, quotients, shortest completions, and state separation. The main new contribution is an elementary-abelian reduction proving that state-primality is undecidable for deterministic one-counter automata.  
 
 This problem was posted on Automata Exchange as [Open Problem](https://automata.exchange/20.03-prime-docas/) by Patrick Totzke and is also listed by [OpenTCS](https://opentcs.cc/problems/prime-docas/). To the best of our literature search as of September 5, 2026, we found no public paper or preprint resolving the problem; the present work gives its first resolution.

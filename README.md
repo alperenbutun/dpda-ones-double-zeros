@@ -11,7 +11,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 Research Monograph in Mathematics (Synthesis of all research papers)  
 
 **Two_Factor_DOCA_Decomposition_Undecidable.pdf:**  
-The previous paper established undecidability of state-primality for deterministic one-counter automata, allowing an arbitrary finite intersection of smaller factors. The present paper sharpens that result to the smallest nontrivial factor budget: two factors already suffice. The main strengthening lies precisely here. Our Prime-DOCA-Undecidable paper, at least in principle, leaves the possibility that undecidability might stem from the ability to use arbitrarily many factors. This paper eliminates that possibility.
+The previous paper established undecidability of state-primality for deterministic one-counter automata, where decomposition is allowed to use an arbitrary finite number of smaller factors. The present paper sharpens that result to the smallest nontrivial intersection budget: undecidability already holds for two-factor decomposition. The strengthening lies precisely in this fixed-budget boundary. The unrestricted Prime-DOCA result leaves open, at least in principle, whether the hardness depends on the absence of any a priori bound on the number of factors. The present result rules this out: the problem is already undecidable for the fixed budget \(k=2\).
 
 
 **UPDATE (September 5, 2026)**  

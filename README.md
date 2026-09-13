@@ -7,6 +7,12 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (September 6, 2026)**  
 ------------------------------- 
 
+**CCR_k_General_Theory.pdf:** 
+This work develops the CCR-\(k\) General Theory, extending our earlier CCR-3 and CCR-4 studies. The third- and fourth-order cases revealed that chronological carry admits a higher-order structure in which each successive order introduces a new connected interaction supported on a consecutive chronological interval. We extend this mechanism to arbitrary \(k\), obtaining an all-order hierarchy of connected interval sources, higher-band Hessenberg realizations, fixed-column transport equations, inverse source reconstruction, and exact parameter identifiability. In the stationary \(p\)-divisible subclass, the higher-order degrees of freedom are naturally parameterized by the lattice \(\mathbb{Z}^{k-3}\), with one integer parameter at each order \(r=4,\ldots,k\). A central conclusion is an exact-versus-shadow principle: the higher-order parameters are recoverable from the exact normalized columns, yet all \(p\)-divisible interaction data disappear modulo \(p\), leaving a universal unsigned first-kind Stirling shadow. Thus CCR-3 and CCR-4 emerge as the first low-order instances of a single all-order chronological-carry hierarchy.
+
+**UPDATE (September 6, 2026)**  
+------------------------------- 
+
 **Deterministic_Pushdown_Normalization_v10.pdf:**  
 Research Monograph in Mathematics (Synthesis of all research papers)  
 

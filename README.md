@@ -4,7 +4,7 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
-**UPDATE (September 6, 2026)**  
+**UPDATE (September 13, 2026)**  
 ------------------------------- 
 I uploaded the CCR-k General Theory paper. It will also be incorporated into the monograph. Our CCR-3 and CCR-4 studies had already been completed, and this work extends them to arbitrary k, forming the general CCR-k theory.
 

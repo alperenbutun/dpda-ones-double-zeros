@@ -6,10 +6,20 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **UPDATE (September 13, 2026)**  
 ------------------------------- 
+
+**Deterministic_Pushdown_Normalization_v11.pdf:**  Synthesis of all research papers 
+
+**Language_Equivalence_Deterministic_Nondeterministic_One_Counter_DECIDABLE.pdf:**  
+This work grew out of our earlier research on deterministic pushdown normalization, residual and quotient geometry, shortest completions, and decision and decomposition problems for deterministic one-counter automata, including the Prime-DOCA and Two-Factor DOCA projects. The new contribution extends these ideas to the mixed deterministic/nondeterministic setting by introducing exact forward envelopes and backward completion requirements, together with well-quasi-order, source–sink, max-plus, bounded-return, terminal-ladder, and LOW-state techniques, to obtain a computable small-witness bound and hence decidability of language equivalence between deterministic and nondeterministic one-counter nets. The problem is recorded as Automata Exchange Problem 24.04(B) and was explicitly discussed as open by Patrick Totzke in 2023; our literature search through September 2026 found no public resolution, so the present paper gives a solution candidate while leaving the corresponding zero-test version as the natural next frontier.  
+
+
+**UPDATE (September 13, 2026)**  
+------------------------------- 
 I uploaded the CCR-k General Theory paper. It will also be incorporated into the monograph. Our CCR-3 and CCR-4 studies had already been completed, and this work extends them to arbitrary k, forming the general CCR-k theory.
 
 **CCR_k_General_Theory.pdf:**  
-This work develops the CCR-k General Theory, extending our earlier CCR-3 and CCR-4 studies. The third- and fourth-order cases revealed that chronological carry admits a higher-order structure in which each successive order introduces a new connected interaction supported on a consecutive chronological interval. We extend this mechanism to arbitrary k, obtaining an all-order hierarchy of connected interval sources, higher-band Hessenberg realizations, fixed-column transport equations, inverse source reconstruction, and exact parameter identifiability. In the stationary p-divisible subclass, the higher-order degrees of freedom are naturally parameterized by the lattice Z^(k-3), with one integer parameter at each order r = 4, ..., k. A central conclusion is an exact-versus-shadow principle: the higher-order parameters are recoverable from the exact normalized columns, yet all p-divisible interaction data disappear modulo p, leaving a universal unsigned first-kind Stirling shadow. Thus CCR-3 and CCR-4 emerge as the first low-order instances of a single all-order chronological-carry hierarchy.
+This work develops the CCR-k General Theory, extending our earlier CCR-3 and CCR-4 studies. The third- and fourth-order cases revealed that chronological carry admits a higher-order structure in which each successive order introduces a new connected interaction supported on a consecutive chronological interval. We extend this mechanism to arbitrary k, obtaining an all-order hierarchy of connected interval sources, higher-band Hessenberg realizations, fixed-column transport equations, inverse source reconstruction, and exact parameter identifiability. In the stationary p-divisible subclass, the higher-order degrees of freedom are naturally parameterized by the lattice Z^(k-3), with one integer parameter at each order r = 4, ..., k. A central conclusion is an exact-versus-shadow principle: the higher-order parameters are recoverable from the exact normalized columns, yet all p-divisible interaction data disappear modulo p, leaving a universal unsigned first-kind Stirling shadow. Thus CCR-3 and CCR-4 emerge as the first low-order instances of a single all-order chronological-carry hierarchy.  
+
 
 **UPDATE (September 6, 2026)**  
 ------------------------------- 

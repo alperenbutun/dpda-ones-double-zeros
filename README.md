@@ -9,7 +9,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **Deterministic_Pushdown_Normalization_v11.pdf:**  Synthesis of research papers 
 
-**Language_Equivalence_Deterministic_Nondeterministic_One_Counter_DECIDABLE.pdf:**  
+**Language_Equivalence_Deterministic_Nondeterministic_One_Counter_Nets_DECIDABLE.pdf:**  
 We prove that language equivalence between deterministic and nondeterministic one-counter nets is decidable.. This work grew out of our earlier research on deterministic pushdown normalization, residual and quotient geometry, shortest completions, and decision and decomposition problems for deterministic one-counter automata, including the Prime-DOCA and Two-Factor DOCA projects. The new contribution extends these ideas to the mixed deterministic/nondeterministic setting by introducing exact forward envelopes and backward completion requirements, together with well-quasi-order, source–sink, max-plus, bounded-return, terminal-ladder, and LOW-state techniques, to obtain a computable small-witness bound and hence decidability of language equivalence between deterministic and nondeterministic one-counter nets. The problem is recorded as Automata Exchange Problem 24.04(B) and was explicitly discussed as open by Patrick Totzke in 2023; our literature search through September 2026 found no public resolution, so the present paper gives a solution candidate while leaving the corresponding zero-test version as the natural next frontier.  
 
 

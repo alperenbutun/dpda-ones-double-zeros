@@ -4,6 +4,13 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (September 19, 2026)**  
+------------------------------- 
+
+**Language_Equivalence_Deterministic_One_Counter_Automata_Nondeterministic_One_Counter_Nets_DECIDABLE.pdf:**  
+As a continuation of our previous work, we publish the paper resolving the open Automata Exchange Problem 24.04(A) by showing that the problem is decidable. Unlike Problem 24.04(B), Problem 24.04(A) was not stated precisely enough to make clear whether epsilon-moves were included in the model. For this reason, we solve both interpretations and prove decidability both with and without epsilon-moves. We prove that language equivalence between a deterministic zero-testing one-counter automaton and a nondeterministic one-counter net is decidable. The work develops an exact shortest-counterexample framework based on forward reachability envelopes and backward completion requirements, deterministic zero-cut decompositions, effective compactness for positive first-return corridors, well-quasi-ordered zero-state trees, and terminal-drain reductions, yielding a computable small-witness bound for the difficult inclusion from the deterministic zero-testing machine into the nondeterministic net. The reverse inclusion is reduced independently to exact reachability in a vector addition system with one zero test. We further show that the decidability result survives a substantially stronger setting with silent transitions: deterministic epsilon-moves on the zero-testing side are handled through stable/reset normalization, while arbitrary epsilon-moves of the nondeterministic net are compiled into an exact finite threshold-affine weak-macro calculus with pumping thresholds, omega-valued envelopes, and a guarded-macro compactness transfer theorem. Based on our literature search through September 2026, we are not aware of a prior published decidability result for this exact asymmetric language-equivalence problem; the paper therefore resolves the standard real-time formulation of Problem 24.04(A) and additionally establishes the epsilon-move extension.
+
+
 **UPDATE (September 16, 2026)**  
 ------------------------------- 
 

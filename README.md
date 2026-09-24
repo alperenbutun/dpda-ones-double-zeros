@@ -9,10 +9,10 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 **Semantic_Normalization_and_Physical_Realization:**  
 The monograph develops a broad theory of semantic normalization and physical realization from four major research branches:  
-**K-Fibers and Completion Geometry:** optimal completion fibers, higher-order compatibility, cubical/geodesic structure, universal \(k\)-fiber phenomena, and full simplicial universality.  
-**CCR-\(k\) Chronological Arithmetic:** higher-order chronological carry, typed source hierarchies, exact Hessenberg realizations, inverse transport, parameter recovery, and raw Stirling shadows.  
-**General DPDA / Exact Realization Theory:** deterministic pushdown normalization, WRITE–SEARCH–CANCEL structure, exact semantic lifts, canonical sections, representation debt, causal schedules, locality constraints, behavioral safety, and verification.  
-**Information and Resource Complexity:** retained semantic information, observability, collapse capacity, source-stack exposure, state/stack/alphabet tradeoffs, and exact resource frontiers.  
+<u>k-fibers theory: </u>  
+<u>CCR-k theory:</u>  
+<u>General DPDA / Exact Realization theory:</u>  
+<u>Information and Resource Complexity theory:</u>  
 
 These four branches are then brought together in a unified typed framework, Unified Semantic Normalization and Realization Theory (USNRT). The synthesis keeps geometry, chronology, physical realization, and information/resource structure distinct while proving the exact bridges, transfer laws, recovery statements, and non-transfer boundaries between them. The monograph subsequently tests the resulting framework outside pushdown automata through Extrema–Frame Foreground–Background theory, providing an external realization-theoretic application in finite scalar fields.
 

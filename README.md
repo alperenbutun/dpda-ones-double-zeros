@@ -7,7 +7,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (September 24, 2026)**  
 -------------------------------  
 
-**Semantic_Normalization_and_Physical_Realization:**  
+**Semantic_Normalization_and_Physical_Realization.pdf:**  
 
 The monograph develops a broad theory of semantic normalization and physical realization from four major research branches:  
 

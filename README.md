@@ -7,6 +7,19 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (September 24, 2026)**  
 -------------------------------  
 
+**Semantic_Normalization_and_Physical_Realization:**  
+The monograph develops a broad theory of semantic normalization and physical realization from four major research branches:  
+**K-Fibers and Completion Geometry:** optimal completion fibers, higher-order compatibility, cubical/geodesic structure, universal \(k\)-fiber phenomena, and full simplicial universality.  
+**CCR-\(k\) Chronological Arithmetic:** higher-order chronological carry, typed source hierarchies, exact Hessenberg realizations, inverse transport, parameter recovery, and raw Stirling shadows.  
+**General DPDA / Exact Realization Theory:** deterministic pushdown normalization, WRITE–SEARCH–CANCEL structure, exact semantic lifts, canonical sections, representation debt, causal schedules, locality constraints, behavioral safety, and verification.  
+**Information and Resource Complexity:** retained semantic information, observability, collapse capacity, source-stack exposure, state/stack/alphabet tradeoffs, and exact resource frontiers.  
+
+These four branches are then brought together in a unified typed framework, Unified Semantic Normalization and Realization Theory (USNRT). The synthesis keeps geometry, chronology, physical realization, and information/resource structure distinct while proving the exact bridges, transfer laws, recovery statements, and non-transfer boundaries between them. The monograph subsequently tests the resulting framework outside pushdown automata through Extrema–Frame Foreground–Background theory, providing an external realization-theoretic application in finite scalar fields.
+
+To reflect this broader scope, the monograph title and subtitle have been updated to:  
+Semantic Normalization and Physical Realization  
+From Deterministic Pushdown Automata to a Unified Theory of Geometry, Chronology, Information, and Resources  
+
 **Extrema_Frame_Foreground_Background_Theory.pdf:**  
 EF-FG is a downstream application of the unified realization framework to finite scalar fields, showing that the theory developed from pushdown normalization extends beyond automata. It builds a self-dual foreground/background semantics with observer-relative ownership and exact common-realization uncertainty, yielding an exact record-chain reduction, tractable local algorithms, NP-complete global ownership problems even on shallow trees, and common-realization obstructions of unbounded order. Its main contribution is both a new foreground/background theory and a concrete demonstration that the semantic–physical realization framework transfers to a genuinely different mathematical domain.  
 

@@ -22,8 +22,8 @@ The monograph develops a broad theory of semantic normalization and physical rea
 These four branches are then brought together in a unified typed framework, Unified Semantic Normalization and Realization Theory (USNRT). The synthesis keeps geometry, chronology, physical realization, and information/resource structure distinct while proving the exact bridges, transfer laws, recovery statements, and non-transfer boundaries between them. The monograph subsequently tests the resulting framework outside pushdown automata through Extrema–Frame Foreground–Background theory, providing an external realization-theoretic application in finite scalar fields.
 
 To reflect this broader scope, the monograph title and subtitle have been updated to:  
-Semantic Normalization and Physical Realization  
-From Deterministic Pushdown Automata to a Unified Theory of Geometry, Chronology, Information, and Resources  
+<ins>Semantic Normalization and Physical Realization</ins>  
+<ins>From Deterministic Pushdown Automata to a Unified Theory of Geometry, Chronology, Information, and Resources</ins>  
 
 **Extrema_Frame_Foreground_Background_Theory.pdf:**  
 EF-FG is a downstream application of the unified realization framework to finite scalar fields, showing that the theory developed from pushdown normalization extends beyond automata. It builds a self-dual foreground/background semantics with observer-relative ownership and exact common-realization uncertainty, yielding an exact record-chain reduction, tractable local algorithms, NP-complete global ownership problems even on shallow trees, and common-realization obstructions of unbounded order. Its main contribution is both a new foreground/background theory and a concrete demonstration that the semantic–physical realization framework transfers to a genuinely different mathematical domain.  

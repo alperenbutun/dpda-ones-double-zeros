@@ -5,6 +5,16 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
 **UPDATE (September 20, 2026)**  
+-------------------------------  
+
+**Extrema_Frame_Foreground_Background_Theory.pdf:**  
+EF-FG is a downstream application of the unified realization framework to finite scalar fields, showing that the theory developed from pushdown normalization extends beyond automata. It builds a self-dual foreground/background semantics with observer-relative ownership and exact common-realization uncertainty, yielding an exact record-chain reduction, tractable local algorithms, NP-complete global ownership problems even on shallow trees, and common-realization obstructions of unbounded order. Its main contribution is both a new foreground/background theory and a concrete demonstration that the semantic–physical realization framework transfers to a genuinely different mathematical domain.  
+
+**Unified_Semantic_Normalization_and_Realization_Theory.pdf:**  
+USNRT grows out of the four structural axes developed in the monograph—completion/fiber geometry, physical pushdown realization, chronological arithmetic, and information/resource complexity—and brings them into a single typed exact-realization framework. It separates semantic evolution from physical representation and establishes results on canonical sections and representation debt, protected-obligation capacity, transfer and same-model saturation, and marked topology/holonomy. Its main contribution is a general theory for determining when semantic structure can be faithfully realized, transported, and compiled inside constrained physical models.  
+
+
+**UPDATE (September 20, 2026)**  
 ------------------------------- 
 
 **Deterministic_Pushdown_Normalization_v12.pdf:**  Synthesis of research papers

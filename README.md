@@ -11,13 +11,17 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 
 The monograph develops a broad theory of semantic normalization and physical realization from four major research branches:  
 
-<ins>k-fibers theory:</ins> optimal completion fibers, higher-order compatibility, cubical/geodesic structure, universal \(k\)-fiber phenomena, and full simplicial universality.  
+<ins>k-fibers theory:</ins> 
+Optimal completion fibers, higher-order compatibility, cubical/geodesic structure, universal \(k\)-fiber phenomena, and full simplicial universality.  
 
-<ins>CCR-k theory:</ins> higher-order chronological carry, typed source hierarchies, exact Hessenberg realizations, inverse transport, parameter recovery, and raw Stirling shadows.  
+<ins>CCR-k theory:</ins> 
+Higher-order chronological carry, typed source hierarchies, exact Hessenberg realizations, inverse transport, parameter recovery, and raw Stirling shadows.  
 
-<ins>General DPDA / Exact Realization theory:</ins> deterministic pushdown normalization, WRITE–SEARCH–CANCEL structure, exact semantic lifts, canonical sections, representation debt, causal schedules, locality constraints, behavioral safety, and verification.  
+<ins>General DPDA / Exact Realization theory:</ins> 
+Deterministic pushdown normalization, WRITE–SEARCH–CANCEL structure, exact semantic lifts, canonical sections, representation debt, causal schedules, locality constraints, behavioral safety, and verification.  
 
-<ins>Information and Resource Complexity theory:</ins> retained semantic information, observability, collapse capacity, source-stack exposure, state/stack/alphabet tradeoffs, and exact resource frontiers.  
+<ins>Information and Resource Complexity theory:</ins> 
+Retained semantic information, observability, collapse capacity, source-stack exposure, state/stack/alphabet tradeoffs, and exact resource frontiers.  
 
 These four branches are then brought together in a unified typed framework, Unified Semantic Normalization and Realization Theory (USNRT). The synthesis keeps geometry, chronology, physical realization, and information/resource structure distinct while proving the exact bridges, transfer laws, recovery statements, and non-transfer boundaries between them. The monograph subsequently tests the resulting framework outside pushdown automata through Extrema–Frame Foreground–Background theory, providing an external realization-theoretic application in finite scalar fields.
 

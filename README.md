@@ -7,7 +7,8 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (October 7, 2026)**  
 ------------------------------- 
 
-**Semantic_Normalization_and_Physical_Realization_v2.pdf:** Mathematical Monograph
+**Semantic_Normalization_and_Physical_Realization_v2.pdf:**  
+Mathematical Monograph  
 Integrated EF–FG II into the monograph.  
 Added the 3+1 NP-completeness contribution package.  
 Closed the five EF–FG I open directions.  

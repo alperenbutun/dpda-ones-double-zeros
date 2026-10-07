@@ -4,6 +4,24 @@ DPDA recognizing the language L = { w ∈ {0, 1}* | n₁(w) = 2 · n₀(w) }
 
 This repository contains a PDA, DPDA and a formal DPDA specifically constructed to recognize the binary language where the count of ones is exactly double the count of zeros.  
 
+**UPDATE (September 20, 2026)**  
+------------------------------- 
+
+**Semantic_Normalization_and_Physical_Realization_v2.pdf:** Mathematical Monograph
+Integrated EF–FG II into the monograph.  
+Added the 3+1 NP-completeness contribution package.  
+Closed the five EF–FG I open directions.  
+Updated the Abstract, Preface, Part introductions, and final synthesis.  
+Added Independent Researcher, Türkiye.  
+Updated the subtitle to A Unified Theory: Geometry, Chronology, Information, and Resources.  
+Reformatted the cover subtitle into two lines.  
+Updated the completion date to October 2026.  
+Removed the remaining explicit open complexity-bound statement.  
+
+**Extrema_Frame_Foreground_Background_Theory_II.pdf.pdf:**  
+The second-stage development of the EF–FG framework, completing the five principal research directions left open in the foundational paper. It proves that complete categorical spatial-frame realization is NP-complete even on shallow bipartite graphs, classifies finite common-realization complexes exactly by showing that every finite simplicial complex is realizable under both raw and canonical EF–FG semantics, and identifies two fixed-parameter tractable regimes for the ownership-hardness kernel. The paper also extends exact common-realization semantics from independent interval uncertainty to correlated rational-polyhedral uncertainty and develops a finite multichannel and spatiotemporal version of the theory with joint realization, exact certification, self-duality, and transferred hardness results. Together, these results turn the open theorem program of EF–FG I into a closed second-stage theory combining global complexity, realization universality, parameterized tractability, and layered semantics.  
+
+
 **UPDATE (September 24, 2026)**  
 -------------------------------  
 

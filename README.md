@@ -7,6 +7,9 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (October 17, 2026)**  
 ------------------------------- 
 
+**Semantic_Normalization_and_Physical_Realization_v3.pdf:**  
+Research Monograph in Mathematics (998 pages)  
+
 **Right_Turn_Spectrum_Languages.pdf:**  
 The paper develops a systematic impossibility theory for tree-language recognition, establishing fundamental limits on what restricted computational models can recognize. It introduces parametrized right-turn spectrum languages and proves an infinite family of impossibility theorems, demonstrating that certain tree languages remain regular while being intrinsically unrecognizable by deterministic tree-walking machines without auxiliary memory. Beyond isolated nonrecognizability results, the theory establishes precise regularity characterizations, identifies structural obstructions to recognition, and determines how the addition of a single pebble changes the recognition boundary. Its main novelty is a unified, parameter-dependent framework of impossibility theorems that transforms individual expressiveness limitations into a systematic mathematical theory, characterizing both the boundaries of computational recognition and the minimal additional resources needed to overcome them.  
 

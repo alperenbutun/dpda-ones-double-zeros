@@ -7,7 +7,7 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (October 17, 2026)**  
 ------------------------------- 
 
-**Semantic_Normalization_and_Physical_Realization_v3.pdf:**  
+**Semantic_Normalization_and_Physical_Realization_v5.pdf:**  
 Research Monograph in Mathematics (998 pages)  
 
 **Right_Turn_Spectrum_Languages.pdf:**  

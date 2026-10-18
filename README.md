@@ -298,7 +298,7 @@ Three more papers are ready.
 
 Three more papers have been developed.  
 
-**binary_stack_alphabet_hierarchy_dpda.pdf:** This paper shows that, for general DPDAs with a fixed number of states, increasing the stack-alphabet size yields a genuine hierarchy, resolving the problem left open by Masopust for the model with epsilon moves. Its main technical result is a representation-independent lower bound, ∣Q∣∣Γ∣≥mk+1, obtained through a completion-slope argument.  
+**binary_stack_alphabet_hierarchy_dpda_v2.pdf:** This paper shows that, for general DPDAs with a fixed number of states, increasing the stack-alphabet size yields a genuine hierarchy, resolving the problem left open by Masopust for the model with epsilon moves. Its main technical result is a representation-independent lower bound, ∣Q∣∣Γ∣≥mk+1, obtained through a completion-slope argument.  
 
 **exact_resource_frontiers_dpda.pdf:** This paper determines exact state–stack resource frontiers for DPDA representations that must faithfully realize the residual dynamics of rational binary counting languages. In particular, it shows that p+q states are necessary and sufficient with one work-stack symbol, while max(p,q) states are necessary and sufficient with two or more work-stack symbols, and it extends the analysis to bounded-push and other structured representation models.  
 

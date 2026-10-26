@@ -7,6 +7,9 @@ This repository contains a PDA, DPDA and a formal DPDA specifically constructed 
 **UPDATE (October 26, 2026)**  
 ------------------------------- 
 
+**Semantic_Normalization_and_Physical_Realization_v6.pdf:**  
+Research Monograph in Mathematics (1121 pages)  
+
 **Sharp_p-adic_Rigidity_and_Source-Tunable_Resonance.pdf:**  
 The paper is a focused sequel to our CCR-k Arithmetic Refinement research, which developed the arithmetic behavior of higher-order chronological-carry-refinement transports. It isolates the coefficient three degrees below the leading term in the stationary CCR polynomial family and asks how strongly this coefficient can resonate at good primes. For every odd order and every prime greater than twice that order, the canonical choice of the third source parameter imposes a sharp p-adic valuation bound of two, irrespective of all higher stationary sources; an explicit order–prime pair attains the bound. Allowing the third source to vary changes the picture completely: the paper proves an exact affine-fiber valuation law and realizes arbitrarily deep, even infinite, resonance at a suitable fixed pair. It also derives the relevant Sheffer representation and clarifies the limits of comparison with classical Nörlund and Bernoulli templates. Its main novelty is the sharp rigidity-versus-tunability dichotomy within one precisely defined CCR transport model, revealing how a single source coordinate controls arithmetic depth without claiming a universal statement about all automata or Stirling polynomials.
 
